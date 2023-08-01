@@ -1,0 +1,36 @@
+{
+    "timestamp": "2023-07-31-13-56-38-455682",
+    "msg": "alarm",
+    "flag": "200",
+    "alarm_type": "illegal_parking",
+    "save_type": "picture",
+    "pic_addr": "runs\\p_save_address\\2023-07\\31\\2023-07-31-13-56-38-455682.jpg",
+    "license_plate": "暂无车牌信息"
+},
+{
+    "timestamp": "2023-07-31-14-07-46-382911",
+    "msg": "alarm",
+    "flag": "200",
+    "alarm_type": "illegal_parking",
+    "save_type": "picture",
+    "pic_addr": "runs\\p_save_address\\2023-07\\31\\2023-07-31-14-07-46-382911.jpg",
+    "license_plate": "浙BX12M9蓝色"
+},
+{
+    "timestamp": "2023-07-31-14-22-24-327865",
+    "msg": "alarm",
+    "flag": "200",
+    "alarm_type": "illegal_parking",
+    "save_type": "picture",
+    "pic_addr": "runs\\p_save_address\\2023-07\\31\\2023-07-31-14-22-24-327865.jpg",
+    "license_plate": "暂无车牌信息"
+},
+{
+    "timestamp": "2023-07-31-14-44-14-732243",
+    "msg": "alarm",
+    "flag": "200",
+    "alarm_type": "illegal_parking",
+    "save_type": "picture",
+    "pic_addr": "runs\\p_save_address\\2023-07\\31\\2023-07-31-14-44-14-732243.jpg",
+    "license_plate": "暂无车牌信息"
+},
